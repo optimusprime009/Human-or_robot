@@ -3,7 +3,7 @@
 > https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/overview   
 > ##Author
 >Himanshu  Tripathi
-> [Report](https://docs.google.com/presentation/d/1J6CYlZcH6qdpIOIxzyUXR9cpnSkneKLx59BNYdVXR2E/edit?usp=sharing)
+> [Report]https://himanshut3344.wixsite.com/website/post/human-or-robot
 
 ## Table of Content
 
