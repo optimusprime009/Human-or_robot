@@ -1,20 +1,3 @@
-# MSDS621-Final-Project
-
-
-## Group Name
-
-Bean Solution
-
-
-## Group Member
-
-Xin Sun  
-Zhi Li  
-Minchen Wang  
-Hongdou Li  
-Bowen Ma  
-
-
 ## Project Name
 
 Bid: Robot or Human?
@@ -22,7 +5,7 @@ Bid: Robot or Human?
 
 ## Data Source
 
-Our data is from Kaggle Competition: Facebook Recruiting IV: Human or Robot?
+My data is from Kaggle Competition: Facebook Recruiting IV: Human or Robot?
 https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot
 
 There are two datasets. One is a bidder dataset that includes a list of bidder information, including their id, payment account, and address. The other is a bid dataset that includes 7.6 million bids on different auctions. The bids in this dataset are all made by bidders from bidder dataset.
