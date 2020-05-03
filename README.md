@@ -1,7 +1,8 @@
 # Facebook Recruiting IV: Human or Robot?
 
 > https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/overview   
-> Bean Solution: Xin Sun, Zhi Li, Minchen Wang, Hongdou Li, Bowen Ma   
+> ##Author
+>Himanshu  Tripathi
 > [Report](https://docs.google.com/presentation/d/1J6CYlZcH6qdpIOIxzyUXR9cpnSkneKLx59BNYdVXR2E/edit?usp=sharing)
 
 ## Table of Content
