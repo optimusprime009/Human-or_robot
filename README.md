@@ -2,7 +2,9 @@
 
 > https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/overview   
 > ##Author
+
 >Himanshu  Tripathi
+
 > [Report]https://himanshut3344.wixsite.com/website/post/human-or-robot
 
 ## Table of Content
@@ -27,7 +29,7 @@ The goal of this competition is to identify online auction bids that are placed 
 
 ## Data Source <a name="source"/>
 
-Our data is from Kaggle Competition: [Facebook Recruiting IV: Human or Robot?](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot)
+My data is from Kaggle Competition: [Facebook Recruiting IV: Human or Robot?](https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot)
 
 There are two kinds of datasets. One is a **bidder dataset** that includes a list of bidder information, including their id, payment account, and address. The other is a **bid dataset** that includes 7.6 million bids on different auctions. The bids in this dataset are all made by mobile devices.
 
